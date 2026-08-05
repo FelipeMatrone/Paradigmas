@@ -1,0 +1,7 @@
+Paradigma: Clojure é essencialmente uma linguagem de paradigma funcional, entretanto a mesma suporta orientação a objeto, imperativa, etc;
+
+Vaga: Em Maringá e Região em especifico não encontrei nenhuma vaga de Clojure. Devido ao mercado ser bem pequeno Brasil Entretanto achei uma vaga na BairesDev remoto para Clojure.
+
+Fonte: Linkedin
+
+Salario: $6.000

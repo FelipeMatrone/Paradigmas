@@ -15,15 +15,15 @@ Plankalkül é relevante porque foi uma das primeiras propostas de uma linguagem
 
 O projeto Fortran precisou convencer os programadores porque, na época, acreditava-se que código escrito diretamente em linguagem de máquina ou assembly seria muito mais rápido do que código traduzido por um compilador. O desafio era mostrar que o compilador poderia gerar código suficientemente eficiente. Se isso fosse alcançado, os programadores poderiam escrever programas mais rapidamente e com menor custo, sem perder muito desempenho. Essa combinação de bom desempenho e menor custo de programação foi fundamental para a adoção do Fortran.
 
-Questão 05)
+## Questão 05)
 
 Fortran e Lisp surgiram com objetivos diferentes. Fortran foi criado principalmente para cálculos científicos e numéricos, trabalhando com números, variáveis e estruturas voltadas para operações matemáticas. Já Lisp foi desenvolvida para inteligência artificial e processamento simbólico, utilizando listas como sua principal forma de representação de dados. Assim, Fortran favorecia uma computação mais numérica e procedural, enquanto Lisp favorecia uma computação simbólica, recursiva e baseada na manipulação de listas.
 
-Questão 07)
+## Questão 07)
 
 COBOL foi criada pensando principalmente em processamento comercial e em usuários ligados a empresas, não apenas em programadores especializados. Por isso, sua sintaxe buscava ser mais próxima da linguagem natural, facilitando a leitura dos programas. A linguagem também possuía estruturas próprias para representar registros e dados comerciais, como informações de clientes, produtos e valores. COBOL recebeu forte influência da FLOW-MATIC, principalmente na preocupação com legibilidade e na utilização de comandos semelhantes à linguagem inglesa, além de conceitos voltados ao processamento de dados empresariais.
 
-Questão 09)
+## Questão 09)
 
 APL: focada em cálculos matemáticos e manipulação de arrays, destacando-se por sua notação extremamente concisa. Sua contribuição duradoura foi a ideia de realizar operações sobre conjuntos inteiros de dados de forma muito compacta.
 
@@ -33,19 +33,19 @@ SIMULA 67: focada em simulação de sistemas. Sua contribuição mais importante
 
 # 5 Questões escolhidas dos Exericios de 10 - 20
 
-Questão 14)
+## Questão 14)
 
 Em Smalltalk, tudo é tratado como objeto, e a linguagem foi projetada com uma forte orientação a objetos, usando mensagens para a comunicação entre eles. Em C++, os objetos foram adicionados ao C por meio da programação orientada a objetos, mantendo grande preocupação com compatibilidade, desempenho e controle de baixo nível. Já Java adotou uma orientação a objetos mais rígida, eliminando vários recursos de baixo nível do C++ e utilizando a Máquina Virtual Java (JVM) para permitir que o mesmo código seja executado em diferentes plataformas. Assim, C++ prioriza compatibilidade e desempenho, enquanto Java prioriza portabilidade e segurança.
 
-Questão 15)
+## Questão 15)
 
 A primeira aplicação de Java estava relacionada a dispositivos e sistemas interativos, e não à Web. Porém, com o crescimento da Web, a capacidade de Java de executar código de forma independente da plataforma tornou-se muito interessante para aplicações distribuídas. Isso mostra que uma linguagem pode ter seu uso reposicionado quando surge um novo contexto tecnológico. Uma característica que inicialmente parecia útil para um determinado domínio pode se tornar muito mais valiosa em outro, dependendo das necessidades do mercado e da tecnologia.
 
-Questão 17)
+## Questão 17)
 
 Uma decisão importante do C# foi utilizar coleta automática de lixo, assim como Java, reduzindo problemas causados pelo gerenciamento manual de memória comum em C++. Outra decisão foi adotar recursos modernos de orientação a objetos e tipos mais seguros, mantendo uma sintaxe familiar aos programadores de C/C++, mas dentro do ambiente .NET. Essas escolhas buscavam reduzir erros de memória e aumentar a produtividade, sem abandonar características que facilitassem a migração de programadores vindos de C++ e Java.
 
-Questão 19)
+## Questão 19)
 
 Uma possível linha do tempo é:
 
@@ -60,7 +60,7 @@ Java (1995) → influência: popularizou a portabilidade por meio da JVM e conso
 
 Assim, a linha não representa apenas uma sequência de datas, mas também influências entre paradigmas e conceitos: imperativo, procedural, funcional, orientado a objetos e estruturado.
 
-Questão 20)
+## Questão 20)
 
 Para cálculo científico, uma boa escolha seria a família Fortran, pois historicamente foi criada justamente para computação científica e numérica, oferecendo bom desempenho em operações matemáticas.
 
